@@ -1,0 +1,1 @@
+The Todo Web Project is a task management application aimed at enhancing productivity and organization for users. It employs a combination of Bootstrap for frontend styling, Jinja templates for dynamic content rendering, Flask for backend server logic, and SQLite with SQLAlchemy for efficient database management.
